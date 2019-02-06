@@ -11,6 +11,8 @@ namespace Gagnon_PE7
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git World");
+
+            Console.WriteLine("Some more code");
         }
     }
 }
